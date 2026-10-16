@@ -1,10 +1,11 @@
 [+] Target : http://staging-crew.g2g.com/site/request-password-reset
 [+] Target : 
 
-
+Admins Emails : ------------------------------------------------------------------------------------------
 weichen.yeoh@g2g.com
 mohlun.chan@g2g.com
 peiyoong.lee@g2g.com
 wainam.theng@g2g.com
 ruijun.see@g2g.com
 weichen@dpodium.com
+                ------------------------------------------------------------------------------------------
