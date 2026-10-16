@@ -1,0 +1,6 @@
+https://metrics.g2g.com [404] []
+https://api.g2g.com [404] [Not Found (#404)]
+https://api2.g2g.com [404] [Not Found (#404)]
+https://lan-api.g2g.com [404] [Not Found (#404)]
+https://staging-api.g2g.com [404] [Not Found (#404)]
+https://prerender.g2g.com [404] [Error]
