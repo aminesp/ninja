@@ -1,0 +1,7 @@
+https://account-api.offgamers.com [404] []
+https://dev-account-api.offgamers.com [404] []
+https://metrics.offgamers.com [404] []
+https://dev-open.offgamers.com [404] []
+https://staging-secure.offgamers.com [404] []
+http://playnow.offgamers.com [404] [Not Found]
+https://open.offgamers.com [404] []
