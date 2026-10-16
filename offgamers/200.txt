@@ -1,0 +1,7 @@
+https://corp-admin.offgamers.com [200] [OffGamers Corp CMS]
+https://dev-cognito.offgamers.com [200] []
+https://crew-vue.offgamers.com [200] [OffGamers Crew Vue]
+https://dev-secure2.offgamers.com [200] [OffGamers Secure Checkout]
+https://secure.offgamers.com [200] [OffGamers Secure Checkout]
+https://payment-guide.offgamers.com [200] [Home Page - OffGamers Payment Guide]
+https://dev-payment-guide.offgamers.com [200] [Home Page - OffGamers Payment Guide]
