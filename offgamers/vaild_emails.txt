@@ -1,3 +1,7 @@
+[+] Target : http://staging-crew.g2g.com/site/request-password-reset
+[+] Target : 
+
+
 weichen.yeoh@g2g.com
 mohlun.chan@g2g.com
 peiyoong.lee@g2g.com
